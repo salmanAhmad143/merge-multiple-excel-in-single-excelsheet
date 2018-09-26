@@ -110,10 +110,3 @@ We welcome the new commit of changes in this code. If any body want to contribut
 ## License
 
 This project is developed using the free open source. So any body are free to download and use this code. 
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-
