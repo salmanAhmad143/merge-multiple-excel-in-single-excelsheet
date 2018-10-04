@@ -93,6 +93,8 @@ C:\Users\LC-121212\Desktop\merge-excel> php merge_excel_data_in_single_sheet.php
 
 3- Now after finish the process you will see the data is now stored of all the excel file from "files" folder into "E:\\mergeFileData.xlsx" file.
 
+4- For more detail you can also visit to our website http://phpsollutions.blogspot.com/2018/09/merge-multiple-excel-files-in-single.html
+
 
 ## Built With
 
